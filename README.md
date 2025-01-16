@@ -1,0 +1,1 @@
+This repository contains a bash script demonstrating an inefficient way to handle large files and a more robust solution. The original script reads a large file line by line, which can cause performance issues. The improved script uses a more efficient approach to avoid memory issues and includes error handling.
